@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-Welcome I'm Reyjhon Villarias! 👋🏼
+Welcome I'm Reyjhon Villarias Bading! 👋🏼
 
 **Good First Issue** is an initiative to curate easy pickings from popular projects, so developers who have never contributed to open-source can get started quickly.
 
